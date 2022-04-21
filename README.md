@@ -30,25 +30,4 @@ keras==2.4.3
 ------------------------------------------
  <img src="https://github.com/comprna/CHEUI/blob/master/misc/pipeline_CHEUI-solo+diff_github.png" width="900" height="500">
 
-## Before running CHEUI (IMPORTANT)
-Before running CHEUI:
-1. fast5 files should be base-called, we recommend guppy version 4 or higher. 
-2. Fastqs should be mapped to a reference TRANSCRIPTOME. e.g.```minimap2 -ax map-ont -k14 <reference transcript> <fastq>```
-3. Run Nanopolish (https://nanopolish.readthedocs.io/en/latest/). We provide an example of how to run Nanopolish with the right flags:  
-```
-nanopolish index -s <sequencing_summary.txt> -d <fast5_folder> <fastq>
-
-nanopolish eventalign -t 20 \
---reads <fastq> \
---bam <sorted.bam> \
---genome <references.fasta> \
---scale-events --signal-index  --samples --print-read-names > \
-nanopolish_out.txt
-```
-## Download CHEUI
-```
-git clone https://github.com/comprna/CHEUI.git
-cd CHEUI/test
-```
-
 
