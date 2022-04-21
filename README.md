@@ -1,5 +1,5 @@
 # CHEUI-public
-(add default values and examples of the code when running help)
+
 # CHEUI: Methylation (CH<sub>3</sub>) Estimation Using Ionic current <img src="https://github.com/comprna/CHEUI/blob/master/misc/CHEUI_logo.png" width="280" height="250">
 
 
