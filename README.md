@@ -1,6 +1,6 @@
-## If you want to access the code, please send us an e-mail requesting access:
 
 # CHEUI-public
+## If you want to access the code, please send us an e-mail requesting access:
 
 CHEUI is software package for characterization of m6A and m5C RNA modifications using nanopore direct-RNA sequencing.
 CHEUI has two software functionalities:
