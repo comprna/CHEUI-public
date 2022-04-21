@@ -1,4 +1,4 @@
-## If you want access to the code, please send an e-mail to:
+## If you want access the code, please send us an e-mail requesting access:
 
 # CHEUI-public
 
