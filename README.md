@@ -8,5 +8,7 @@ CHEUI code will be available soon at [CHEUI GitHub](https://github.com/comprna/C
 You can read more about CHEUI in [this preprint](https://doi.org/10.1101/2022.03.14.484124)
 ```
 Identification of m6A and m5C RNA modifications at single-molecule resolution from Nanopore sequencing
-P. Acera Mateos, A.J. Sethi, M. Guarnacci, A. Ravindran, A. Srivastava, J. Xu, K. Woodward, W. Hamilton, J. Gao, L. M. Starrs, G. Burgio, R. Hayashi, V. Wickramasinghe, N. Dehorter, T. Preiss, N. Shirokikh, E. Eyras. bioRxiv 2022.03.14.484124; doi.org/10.1101/2022.03.14.484124
+P. Acera Mateos, A.J. Sethi, M. Guarnacci, A. Ravindran, A. Srivastava, J. Xu, K. Woodward, 
+W. Hamilton, J. Gao, L. M. Starrs, G. Burgio, R. Hayashi, V. Wickramasinghe, N. Dehorter,
+T. Preiss, N. Shirokikh, E. Eyras. bioRxiv 2022.03.14.484124; doi.org/10.1101/2022.03.14.484124
 ```
