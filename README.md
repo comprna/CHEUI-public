@@ -3,7 +3,8 @@
 
 CHEUI (Methylation (CH<sub>3</sub>) Estimation Using Ionic current) is software for the characterization of m6A and m5C RNA modifications using nanopore direct-RNA sequencing. CHEUI can be used to detect m6A and m5C modifications at single read resolution as well as modified transcriptomic sites and their stoichiometry in individual conditions, i.e. without the need of using a KO or control sample (e.g. an IVT sample). CHEUI also detects differential m6A or m5C between any two conditions. 
 
-CHEUI code will be soon available at [CHEUI GitHub](https://github.com/comprna/CHEUI)
+To access the code, please sends us an email to *cheui-users@googlegroups.com* indicating your GitHub id or the email you would like to use to access CHEUI GitHub. 
+CHEUI is provided under an Academic Public License. With this With this request, it is understood that the terms of this license are accepted.
 
 You can read more about CHEUI in [this preprint](https://doi.org/10.1101/2022.03.14.484124)
 ```
