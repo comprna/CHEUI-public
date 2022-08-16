@@ -5,7 +5,7 @@ CHEUI (Methylation (CH<sub>3</sub>) Estimation Using Ionic current) is software 
 
 To access the code, please send us an email to *cheui-users@googlegroups.com* indicating your GitHub id or the email you would like to use to access CHEUI GitHub. 
 
-By requesting access to the code, the ‘requestee’ is acknowledging and accepting the terms of the academic licence. Please read the license prior to the request. 
+Please note that CHEUI is available through an Academic Public License (see license in this repository). By requesting access to the code, the ‘requestee’ is acknowledging and accepting the terms of this academic licence. Please read the license prior to the request. 
 
 
 You can read more about CHEUI in [this preprint](https://doi.org/10.1101/2022.03.14.484124)
