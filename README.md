@@ -1,11 +1,13 @@
 
 # CHEUI
 
-CHEUI (Methylation (CH<sub>3</sub>) Estimation Using Ionic current) is software for the characterization of m6A and m5C RNA modifications using nanopore direct-RNA sequencing. CHEUI can be used to detect m6A and m5C modifications at single read resolution as well as modified transcriptomic sites and their stoichiometry in individual conditions, i.e. without the need of using a KO or control sample (e.g. an IVT sample). CHEUI also detects differential m6A or m5C between any two conditions. 
+CHEUI (Methylation (CH<sub>3</sub>) Estimation Using Ionic current) is a software for the characterization of m6A and m5C RNA modifications from nanopore direct-RNA sequencing data. CHEUI can be used to detect m6A and m5C modifications at single read resolution and to identified modified sites and their stoichiometry in a transcriptome annotation in individual conditions, i.e. without the need of using a knock-out/knock-down or control sample (e.g. in-vitro trnscribed RNA). CHEUI also detects differential m6A or m5C between any two conditions. 
 
-To access the code, please send us an email to *cheui-users@googlegroups.com* indicating your GitHub id or the email you would like to use to access CHEUI GitHub. 
+CHEUI is available from https://github.com/comprna/CHEUI under an Academic Public License (see copy of the license in this repository).
 
-Please note that CHEUI is available through an Academic Public License (see license in this repository). By requesting access to the code, the ‘requestee’ is acknowledging and accepting the terms of this academic licence. Please read the license prior to the request. 
+To access the code, please send us an email to *cheui-users@googlegroups.com* indicating your GitHub id or email you will use to access CHEUI GitHub. 
+
+By requesting access to the code, the ‘requestee’ is acknowledging and accepting the terms of this academic licence. Please read the license prior to the request. 
 
 
 You can read more about CHEUI in [this preprint](https://doi.org/10.1101/2022.03.14.484124)
